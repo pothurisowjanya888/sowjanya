@@ -1,8 +1,15 @@
-
 public class Myshop {
+	
+	public Myshop()
+	{
+		
+		 System.out.println("help");
+	}
 
 	public static void main(String[] args) {
-		 System.out.println("help");
+				
+		 Myshop myshop = new Myshop();
+	
 
 	}
 
